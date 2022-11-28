@@ -12,7 +12,7 @@ On this page you will find notes and code that I am writing to learn, and help t
 ### :computer: Work Summary - Mathematics Teacher
 
 Currently I enjoy thinking about and teaching the formal mathematics that has grown out of [Hilbert's Program](https://plato.stanford.edu/entries/hilbert-program/). 
-The idea of "proofs-as-programs" is of particular interest to me now. I see this as a continuation of the constructive school of thought in the philosophy of mathematics.  To this end I am learning about:
+The idea of "proofs-as-programs" is of particular interest to me now. To this end I am learning about:
   - Type Theory
   - Proof assistants
   - Haskell 
