@@ -6,7 +6,7 @@ My name is Epi :nerd_face:
 
 :computer: When I am working I teach mathematics.
 
-I enjoy thinking about and teaching the formal mathematics that has grown out of Hilbert's Program. 
+I enjoy thinking about and teaching the formal mathematics that has grown out of [Hilbert's Program](https://plato.stanford.edu/entries/hilbert-program/). 
 The idea of "proofs-as-programs" is of particular interest to me now. I see this is a continuation of the constructive school of thought in the philosophy of mathematics.
 
 I am currently learning about proof assistants, type theory, and Haskell. 
