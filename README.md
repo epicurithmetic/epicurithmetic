@@ -5,7 +5,8 @@ My name is Robert :deciduous_tree: :camping: :deciduous_tree: :mountain_snow: I 
 
 On this page you will find notes and code that I am writing to learn, and help teach, mathematics. 
 
-:abacus: :robot: For example I have written code to generate ASCII art depictions of computations done with Turing machines.
+### Example :abacus: :robot:
+I have written code to generate ASCII art depictions of computations done with Turing machines.
   - An example of a complete computation can be found [here](https://github.com/epicurithmetic/turingMachine/blob/master/tm-output.txt). 
   - The code for generating the art can be found [here](https://github.com/epicurithmetic/turingMachine). 
 
