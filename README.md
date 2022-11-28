@@ -1,6 +1,6 @@
 # Kia ora!
 
-My name is Epi :deciduous_tree: :camping: :deciduous_tree: :mountain_snow: I like to spend time in the mountains :mountain_snow: :deciduous_tree: :deciduous_tree: :deciduous_tree:
+My name is Robert :deciduous_tree: :camping: :deciduous_tree: :mountain_snow: I like to spend time in the mountains :mountain_snow: :deciduous_tree: :deciduous_tree: :deciduous_tree:
 
 
 On this page you will find notes and code that I am writing to learn, and help teach, mathematics. 
