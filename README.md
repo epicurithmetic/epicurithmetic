@@ -12,7 +12,7 @@ The idea of "proofs-as-programs" is of particular interest to me now. I see this
 I am currently learning about proof assistants, type theory, and Haskell. 
 
 
-On this page you will find notes and code that I am writing to learn, and help teach, topics in formal mathematics. 
+On this page you will find notes and code that I am writing to learn, and help teach, mathematics. 
 
 :abacus: :robot: For example I have written code to generate ASCII art depictions of computations done with Turing machines.
   - An example of a complete computation can be found [here](https://github.com/epicurithmetic/turingMachine/blob/master/tm-output.txt). 
