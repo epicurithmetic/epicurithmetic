@@ -18,7 +18,7 @@ The idea of "proofs-as-programs" is of particular interest to me now. To this en
   - Proof assistants
   - Haskell 
 
-When I was a grad-student I worked on the arithmetic geometry of semirings: thinking about how the work of Alexander Grothendick could be extended beyond the category of rings to the category of semirings i.e. algebras/schemes over the natural numbers. My advisor and I formulated Grothendieck's theory of the fundamental group for schemes over semirings, culminating in the calculation of the fundamental group of the (spectrum of the) natural numbers. 
+When I was a grad-student I worked on the arithmetic geometry of semirings: thinking about how the work of Alexander Grothendick could be extended beyond the category of rings to the category of semirings i.e. algebras/schemes over the natural numbers. My advisor and I formulated Grothendieck's theory of the fundamental group for schemes over semirings, culminating in the calculation of the fundamental group of the (spectrum of the) natural numbers. My thesis can be found [here](https://github.com/epicurithmetic/arithmetic/blob/master/RCullingPhD2019_final_.pdf).
 
 
 
