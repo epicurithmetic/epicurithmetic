@@ -12,7 +12,7 @@ I have written code to generate ASCII art depictions of computations done with T
 
 ### :computer: Work Summary - Mathematics Teacher
 
-Currently I enjoy thinking about and teaching the formal mathematics that has grown out of [Hilbert's Program](https://plato.stanford.edu/entries/hilbert-program/). 
+Currently I enjoy thinking about and teaching the formal mathematics that has grown out of [Hilbert's Program](https://plato.stanford.edu/entries/hilbert-program/) and the philosophical debates surrounding the program. 
 The idea of "proofs-as-programs" is of particular interest to me now. To this end I am learning about:
   - Type Theory
   - Proof assistants
