@@ -9,6 +9,11 @@ On this page you will find notes and code that I am writing to learn, and help t
 I have written code to generate ASCII art depictions of computations done with Turing machines.
   - An example of a complete computation can be found [here](https://github.com/epicurithmetic/turingMachine/blob/master/tm-output.txt). 
   - The code for generating the art can be found [here](https://github.com/epicurithmetic/turingMachine). 
+  - These computations can now be represented using [.gif](https://github.com/epicurithmetic/turingMachine/blob/master/images/kiaora.gif)
+
+<p align="center">
+  <img width="420" height="100" src="https://github.com/epicurithmetic/turingMachine/blob/master/images/kiaora.gif">
+</p>
 
 ### :computer: Work Summary - Mathematics Teacher
 
